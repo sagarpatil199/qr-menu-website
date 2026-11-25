@@ -18,7 +18,7 @@
 
 export const business = {
   // Your brand name, shown in the navbar, footer and page title text.
-  businessName: 'REPLACE_WITH_BRAND_NAME',
+  businessName: 'MyQrMenu.',
 
   // Shown when businessName is not configured yet.
   fallbackName: 'QR Menu Studio',
@@ -27,7 +27,7 @@ export const business = {
   tagline: 'Digital QR menus for restaurants, cafés, dhabas, hotels and bakeries across India.',
 
   // WhatsApp number with country code, digits only. Example format: 91 + 10-digit number.
-  whatsappNumber: 'REPLACE_WITH_WHATSAPP_NUMBER',
+  whatsappNumber: '9739606972',
 
   // Full Instagram profile URL, e.g. https://www.instagram.com/<your_handle>/
   instagramUrl: 'REPLACE_WITH_INSTAGRAM_URL',
@@ -36,7 +36,7 @@ export const business = {
   instagramLabel: 'REPLACE_WITH_INSTAGRAM_HANDLE',
 
   // Business email address.
-  emailAddress: 'REPLACE_WITH_EMAIL_ADDRESS',
+  emailAddress: 'patilsagar2309@gmail.com',
 
   // (Client menus shown in the "Live client menus" section live in src/config/clients.js)
   demoUrls: [],

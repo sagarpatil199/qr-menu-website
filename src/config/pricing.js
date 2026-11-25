@@ -6,7 +6,7 @@ export const packages = [
   {
     id: 'basic',
     name: 'Basic',
-    price: 699,
+    price: 999,
     tagline: 'A clean digital menu to get started.',
     features: [
       'Digital QR Menu',
@@ -21,7 +21,7 @@ export const packages = [
   {
     id: 'standard',
     name: 'Standard',
-    price: 999,
+    price: 1899,
     recommended: true,
     tagline: 'Photos, branding and one-tap contact buttons.',
     features: [
@@ -40,7 +40,7 @@ export const packages = [
   {
     id: 'premium',
     name: 'Premium',
-    price: 1499,
+    price: 2399,
     tagline: 'The full premium experience, table to review.',
     features: [
       'Everything in Standard',
